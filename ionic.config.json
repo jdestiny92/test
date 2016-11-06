@@ -1,4 +1,5 @@
 {
-  "name": "random",
-  "app_id": ""
+  "name": "video-editor-ionic2",
+  "app_id": "",
+  "v2": true
 }
